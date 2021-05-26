@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gavin Putterill
+- 👀 I’m interested in music.
+- 🌱 I’m currently learning JavaScript.
